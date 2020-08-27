@@ -1,1 +1,1 @@
-# aws-training-eks-example
+# eks-example
